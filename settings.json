@@ -1,4 +1,20 @@
 {
-  /* so para lembrar de colocar no pc */
-  
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "redhat.telemetry.enabled": true,
+  "workbench.colorTheme": "Min Dark",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "workbench.editor.labelFormat": "short",
+  "breadcrumbs.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "terminal.integrated.fontSize": 16
 }
