@@ -20,9 +20,9 @@ public class BinarySearch {
   }
 
   public static void main(String[] args) {
-      int[] lista = {16, 18, 20, 50, 60, 81, 84, 89};
+    int[] lista = {16, 18, 20, 50, 60, 81, 84, 89};
 
-      System.out.println(binarySearch(lista, 81));//5
-      System.out.println(binarySearch(lista, 10));//-1 (element not found)
+    System.out.println(binarySearch(lista, 81));//5
+    System.out.println(binarySearch(lista, 10));//-1 (element not found)
   }
 }
